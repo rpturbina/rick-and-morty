@@ -35,7 +35,7 @@ Before you can use this project, you should have the following software installe
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/rpturbina/rick-and-morty.git
 cd your-project
 pnpm install
 ```
@@ -74,7 +74,7 @@ pnpm preview
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
-- [Chakra UI](https://chakra-ui.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
