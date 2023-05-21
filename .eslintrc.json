@@ -47,6 +47,7 @@
   "rules": {
     "prettier/prettier": "error",
     "react/react-in-jsx-scope": "off",
-    "import/no-unresolved": [2, { "ignore": ["/public"] }]
+    "import/no-unresolved": [2, { "ignore": ["/public"] }],
+    "react/prop-types": "off"
   }
 }
